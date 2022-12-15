@@ -1,0 +1,10 @@
+pos_neg_1_10_results.txt:specificity: 0.97496873
+pos_neg_1_10_results.txt:specificity: 0.97182435
+pos_neg_1_10_results.txt:specificity: 0.9626212
+pos_neg_1_10_results.txt:specificity: 0.9663945
+pos_neg_1_10_results.txt:specificity: 0.9668343
+pos_neg_1_10_results.txt:specificity: 0.97509396
+pos_neg_1_10_results.txt:specificity: 0.9656566
+pos_neg_1_10_results.txt:specificity: 0.96881336
+pos_neg_1_10_results.txt:specificity: 0.9627552
+pos_neg_1_10_results.txt:specificity: 0.9675507

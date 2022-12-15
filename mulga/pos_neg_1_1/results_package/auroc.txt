@@ -1,0 +1,11 @@
+pos_neg_1_1_results.txt:auroc: 0.9675912932535996
+pos_neg_1_1_results.txt:auroc: 0.9718254610364275
+pos_neg_1_1_results.txt:auroc: 0.9614491608676088
+pos_neg_1_1_results.txt:auroc: 0.9730331379353955
+pos_neg_1_1_results.txt:auroc: 0.9685285571096246
+pos_neg_1_1_results.txt:auroc: 0.9731217516380319
+pos_neg_1_1_results.txt:auroc: 0.9645956515933449
+pos_neg_1_1_results.txt:auroc: 0.9681172400171283
+pos_neg_1_1_results.txt:auroc: 0.9623310754362522
+pos_neg_1_1_results.txt:auroc: 0.9632403060488857
+pos_neg_1_1_results.txt:mean_auroc: 0.9673833634936297

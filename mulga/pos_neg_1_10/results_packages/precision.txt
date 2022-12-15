@@ -1,0 +1,10 @@
+pos_neg_1_10_results.txt:precision: 0.73421925
+pos_neg_1_10_results.txt:precision: 0.7112903
+pos_neg_1_10_results.txt:precision: 0.66943294
+pos_neg_1_10_results.txt:precision: 0.66718507
+pos_neg_1_10_results.txt:precision: 0.68174964
+pos_neg_1_10_results.txt:precision: 0.7418831
+pos_neg_1_10_results.txt:precision: 0.68017364
+pos_neg_1_10_results.txt:precision: 0.69742817
+pos_neg_1_10_results.txt:precision: 0.67658997
+pos_neg_1_10_results.txt:precision: 0.6848485

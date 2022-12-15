@@ -1,0 +1,10 @@
+pos_neg_1_1_results.txt:recall: 0.91715115
+pos_neg_1_1_results.txt:recall: 0.9243086
+pos_neg_1_1_results.txt:recall: 0.88209605
+pos_neg_1_1_results.txt:recall: 0.9184862
+pos_neg_1_1_results.txt:recall: 0.9243086
+pos_neg_1_1_results.txt:recall: 0.9184862
+pos_neg_1_1_results.txt:recall: 0.9199418
+pos_neg_1_1_results.txt:recall: 0.93595344
+pos_neg_1_1_results.txt:recall: 0.90538573
+pos_neg_1_1_results.txt:recall: 0.93595344

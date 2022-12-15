@@ -1,0 +1,11 @@
+pos_neg_1_1_results.txt:aupr: 0.9726659779465581
+pos_neg_1_1_results.txt:aupr: 0.9764755751510288
+pos_neg_1_1_results.txt:aupr: 0.9676295788947789
+pos_neg_1_1_results.txt:aupr: 0.9783475729536306
+pos_neg_1_1_results.txt:aupr: 0.9720151301179767
+pos_neg_1_1_results.txt:aupr: 0.9762616918975722
+pos_neg_1_1_results.txt:aupr: 0.9691878600620871
+pos_neg_1_1_results.txt:aupr: 0.963794645333219
+pos_neg_1_1_results.txt:aupr: 0.9694023086392338
+pos_neg_1_1_results.txt:aupr: 0.9643789360938624
+pos_neg_1_1_results.txt:mean_aupr: 0.9710159277089947
